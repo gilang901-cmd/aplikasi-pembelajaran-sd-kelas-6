@@ -1,0 +1,6 @@
+{
+  "name": "MATH KARANGPETE - Pembelajaran Rasio Kelas 6 SD",
+  "description": "Aplikasi web pembelajaran Matematika Kelas 6 SD materi Rasio (Konsep Rasio, Persamaan Rasio, Rasio Satuan, Penerapan Rasio, Latihan Soal, dan Kuis Skor Otomatis) bersama Guru Gilang Syahrir Ramdani di SDN Karangpete.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
